@@ -1,4 +1,4 @@
-package com.example.employeesystem.controller;
+package com.example.employeesystem.entity.controller;
 
 import com.example.employeesystem.entity.Employee;
 import com.example.employeesystem.service.Employeeservice;
